@@ -1006,6 +1006,7 @@ a[class*="__tel"]:hover {
   bottom: 100px;
   width: 100%;
   height: 243px;
+  top: 64%;
   background: url("../img/road.jpg") 0 0 repeat;
   z-index: 0;
   -webkit-animation: road 6s linear infinite;
@@ -1097,7 +1098,7 @@ a[class*="__tel"]:hover {
   height: 400px;
   background: url("../img/derevo1.webp") 0 0 no-repeat;
   left: 100px;
-  bottom: 325px;
+  top: -162%;
   -webkit-animation: derevo1 6s linear 1s infinite, derevo1-1 1.5s linear 1;
           animation: derevo1 6s linear 1s infinite, derevo1-1 1.5s linear 1;
 }
@@ -1108,7 +1109,7 @@ a[class*="__tel"]:hover {
   height: 500px;
   background: url("../img/derevo2.webp") 0 0 no-repeat;
   left: 300px;
-  bottom: 325px;
+  top: -201%;
   -webkit-animation: derevo1 6s linear 2s infinite, derevo2-1 2s linear 1;
           animation: derevo1 6s linear 2s infinite, derevo2-1 2s linear 1;
 }
@@ -1119,7 +1120,7 @@ a[class*="__tel"]:hover {
   height: 500px;
   background: url("../img/derevo3.webp") 0 0 no-repeat;
   left: 600px;
-  bottom: 325px;
+  top: -203%;
   -webkit-animation: derevo1 6s linear 3s infinite, derevo3-1 3s linear 1;
           animation: derevo1 6s linear 3s infinite, derevo3-1 3s linear 1;
 }
@@ -1130,7 +1131,7 @@ a[class*="__tel"]:hover {
   height: 300px;
   background: url("../img/derevo4.webp") 0 0/cover no-repeat;
   left: 1100px;
-  bottom: 325px;
+  top: -122%;
   -webkit-animation: derevo1 6s linear 4s infinite, derevo4-1 5s linear 1;
           animation: derevo1 6s linear 4s infinite, derevo4-1 5s linear 1;
 }
@@ -1228,7 +1229,7 @@ a[class*="__tel"]:hover {
 .night {
   background: url("../img/Ir4.gif") 0 0 repeat;
   width: 100%;
-  height: 500px;
+  height: 80vh;
   opacity: 0.5;
   -webkit-animation: night 12s linear infinite alternate;
           animation: night 12s linear infinite alternate;
